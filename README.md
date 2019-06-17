@@ -1,7 +1,7 @@
 # js1
 在百度百科中添加可用的google、互动百科、维基搜索按钮。
 
-在百度百科中添加跳转到google、互动百科、维基的按钮。fork了https://greasyfork.org/zh-CN/users/20689-sunforbeeing的项目，同时利用了https://jsproxy.ga/这个脚本代理项目添加了google搜索和维护了维基搜索
+fork了[sunforbeeing](https://greasyfork.org/zh-CN/users/20689-sunforbeeing)的项目，同时利用了[脚本代理](https://jsproxy.ga/)这个项目添加了稳定的google搜索和维护了维基搜索。
 
 ```
 // ==UserScript==
