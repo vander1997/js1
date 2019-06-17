@@ -1,17 +1,17 @@
 # js1
 在百度百科中添加可用的google、互动百科、维基搜索按钮。
 
+在百度百科中添加跳转到google、互动百科、维基的按钮。fork了https://greasyfork.org/zh-CN/users/20689-sunforbeeing的项目，同时利用了https://jsproxy.ga/这个脚本代理项目添加了google搜索和维护了维基搜索
 
 ```
 // ==UserScript==
-// @name         百度百科添加维基镜像
-// @version      1.05
-// @description  在百度百科中添加跳转到维基百科镜像和互动百科的按钮。
+// @name         在百度百科中添加可用的google、互动百科、维基搜索按钮
+// @version      1.0
+// @description  在百度百科中添加可用的google、互动百科、维基搜索按钮
 // @match        *://baike.baidu.com/*
 // @grant        none
-// @author       sunforbeeing
+// @author       vander1997
 // @require      https://code.jquery.com/jquery-3.1.1.min.js
-// @namespace    https://greasyfork.org/users/20689
 // ==/UserScript==
 
 (function() {
